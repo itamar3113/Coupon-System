@@ -1,0 +1,12 @@
+.card{
+    background: url('./images/couponBackground.jpg') no-repeat center center fixed;
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin: 15px auto;
+    padding: 15px;
+   width: 50%;
+   justify-content: space-between;
+   align-items: center;
+   
+    }

@@ -1,0 +1,19 @@
+.active{
+    display:inline-block;
+    border-style: outset;
+    color: rgb(215, 223, 215);
+    font-weight: bold;
+    font-size: 25px;
+   }
+
+header{
+    display: inline-block;
+   margin-right: auto;
+    margin: 15px right;
+    padding: 15px;
+    width: 70%;
+    justify-content: space-between;
+    align-items: right;
+}
+
+
